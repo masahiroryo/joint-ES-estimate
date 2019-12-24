@@ -1,6 +1,8 @@
 # Effect Size Analysis for Joint Factors
 
 This repository offers the R script used in Rillig et al. (2019) in Science.
+![image](https://user-images.githubusercontent.com/30728887/71410433-81c52000-2645-11ea-98a1-59d9d3e5754d.png)
+
 
 It takes the following outcomes:
 1) The effect size of each factor with 95% confidence intervals (bootstrap resampling)
